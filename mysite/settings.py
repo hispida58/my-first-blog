@@ -25,7 +25,7 @@ SECRET_KEY = ')wwf#+%dcvbj7&lfoe-ax4kums#_c$$kz68#49&zwzwzbratd7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'hispida.pythonanywhere.com']
 
 
 # Application definition
